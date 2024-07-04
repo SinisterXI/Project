@@ -1,1 +1,2 @@
+
 🎮 Developed a classic Tetris game using C++ and the SFML library, integrating object-oriented programming (OOP) principles for scalable code architecture and efficient game mechanics. Implemented features include real-time block manipulation, scoring system, and dynamic level progression. This project not only enhanced my proficiency in C++ and SFML but also strengthened my skills in OOP design and software development.
