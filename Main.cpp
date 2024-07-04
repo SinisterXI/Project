@@ -2,7 +2,7 @@
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
-#include <time.h>          //#include <time.h> is a header file in C and C++ programming languages that contains various functions related to time and date manipulation.
+#include <time.h>          //#includee <time.h> is a header file in C and C++ programming languages that contains various functions related to time and date manipulation.
 #include "utils.h"         //a header file that contains declarations of functions, variables, or other constructs that are needed in a C++ program.
 #include "pieces.h"        //These declarations may include the names of the pieces, their movements, and any other relevant information about them.
 #include "functionality.h" //used to include external header files that contain declarations of functions, variables, and other constructs that are needed in a program.
